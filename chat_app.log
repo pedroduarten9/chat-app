@@ -1,0 +1,52 @@
+637  [main] INFO  c.p.chatapplication.ChatApplication - Starting ChatApplication on MBP-de-Ana.lan with PID 21472 (/Users/anasousa/Dev/chat-application/target/classes started by anasousa in /Users/anasousa/Dev/chat-application)
+638  [main] DEBUG c.p.chatapplication.ChatApplication - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+639  [main] INFO  c.p.chatapplication.ChatApplication - No active profile set, falling back to default profiles: default
+526  [main] INFO  c.p.chatapplication.ChatApplication - Starting ChatApplication on MBP-de-Ana.lan with PID 21579 (/Users/anasousa/Dev/chat-application/target/classes started by anasousa in /Users/anasousa/Dev/chat-application)
+527  [main] DEBUG c.p.chatapplication.ChatApplication - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+527  [main] INFO  c.p.chatapplication.ChatApplication - No active profile set, falling back to default profiles: default
+4761 [main] INFO  c.p.chatapplication.ChatApplication - Started ChatApplication in 4.518 seconds (JVM running for 4.872)
+449  [main] INFO  c.p.chatapplication.ChatApplication - Starting ChatApplication on MBP-de-Ana.lan with PID 21607 (/Users/anasousa/Dev/chat-application/target/classes started by anasousa in /Users/anasousa/Dev/chat-application)
+450  [main] DEBUG c.p.chatapplication.ChatApplication - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+450  [main] INFO  c.p.chatapplication.ChatApplication - No active profile set, falling back to default profiles: default
+1034 [main] INFO  c.p.c.repository.ChatRepositoryTest - Starting ChatRepositoryTest on MacBook-Pro-de-Ana.local with PID 22264 (started by anasousa in /Users/anasousa/Dev/chat-application)
+1035 [main] DEBUG c.p.c.repository.ChatRepositoryTest - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+1036 [main] INFO  c.p.c.repository.ChatRepositoryTest - No active profile set, falling back to default profiles: default
+3504 [main] INFO  c.p.c.repository.ChatRepositoryTest - Started ChatRepositoryTest in 3.036 seconds (JVM running for 3.846)
+691  [main] INFO  c.p.c.repository.ChatRepositoryTest - Starting ChatRepositoryTest on MacBook-Pro-de-Ana.local with PID 22271 (started by anasousa in /Users/anasousa/Dev/chat-application)
+691  [main] DEBUG c.p.c.repository.ChatRepositoryTest - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+693  [main] INFO  c.p.c.repository.ChatRepositoryTest - No active profile set, falling back to default profiles: default
+2939 [main] INFO  c.p.c.repository.ChatRepositoryTest - Started ChatRepositoryTest in 2.523 seconds (JVM running for 3.216)
+808  [main] INFO  c.p.c.service.ChatServiceTest - Starting ChatServiceTest on MBP-de-Ana.lan with PID 22326 (started by anasousa in /Users/anasousa/Dev/chat-application)
+809  [main] DEBUG c.p.c.service.ChatServiceTest - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+810  [main] INFO  c.p.c.service.ChatServiceTest - No active profile set, falling back to default profiles: default
+725  [main] INFO  c.p.c.service.ChatServiceTest - Starting ChatServiceTest on MBP-de-Ana.lan with PID 22329 (started by anasousa in /Users/anasousa/Dev/chat-application)
+726  [main] DEBUG c.p.c.service.ChatServiceTest - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+727  [main] INFO  c.p.c.service.ChatServiceTest - No active profile set, falling back to default profiles: default
+5977 [main] INFO  c.p.c.service.ChatServiceTest - Started ChatServiceTest in 5.517 seconds (JVM running for 6.246)
+6203 [main] DEBUG c.p.c.service.ChatServiceImpl - Successful saved message:com.pneto.chatapplication.domain.Message@2ffaa711
+787  [main] INFO  c.p.c.service.ChatServiceTest - Starting ChatServiceTest on MBP-de-Ana.lan with PID 22397 (started by anasousa in /Users/anasousa/Dev/chat-application)
+788  [main] DEBUG c.p.c.service.ChatServiceTest - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+788  [main] INFO  c.p.c.service.ChatServiceTest - No active profile set, falling back to default profiles: default
+5633 [main] INFO  c.p.c.service.ChatServiceTest - Started ChatServiceTest in 5.141 seconds (JVM running for 5.981)
+5824 [main] DEBUG c.p.c.service.ChatServiceImpl - Successful saved message:com.pneto.chatapplication.domain.Message@362e6fe
+5890 [main] DEBUG c.p.c.service.ChatServiceImpl - Success getting chat com.pneto.chatapplication.domain.Chat@e75bae7 from repository
+5891 [main] DEBUG c.p.c.service.ChatServiceImpl - Success converting chat to dto: com.pneto.chatapplication.dto.ChatDto@4f2b1a2f
+5923 [main] WARN  c.p.c.service.ChatServiceImpl - chat with participants part1,part2 was not found
+738  [main] INFO  c.p.c.service.ChatServiceTest - Starting ChatServiceTest on MBP-de-Ana.lan with PID 22401 (started by anasousa in /Users/anasousa/Dev/chat-application)
+740  [main] DEBUG c.p.c.service.ChatServiceTest - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+741  [main] INFO  c.p.c.service.ChatServiceTest - No active profile set, falling back to default profiles: default
+5656 [main] INFO  c.p.c.service.ChatServiceTest - Started ChatServiceTest in 5.175 seconds (JVM running for 5.949)
+5808 [main] DEBUG c.p.c.service.ChatServiceImpl - Success getting chat com.pneto.chatapplication.domain.Chat@4e3c0627 from repository
+5809 [main] DEBUG c.p.c.service.ChatServiceImpl - Success converting chat to dto: com.pneto.chatapplication.dto.ChatDto@5aec151b
+790  [main] INFO  c.p.c.c.ChatRestControllerTest - Starting ChatRestControllerTest on MBP-de-Ana.lan with PID 22437 (started by anasousa in /Users/anasousa/Dev/chat-application)
+790  [main] DEBUG c.p.c.c.ChatRestControllerTest - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+792  [main] INFO  c.p.c.c.ChatRestControllerTest - No active profile set, falling back to default profiles: default
+2659 [main] INFO  c.p.c.c.ChatRestControllerTest - Started ChatRestControllerTest in 2.219 seconds (JVM running for 2.934)
+651  [main] INFO  c.p.c.ChatApplicationTests - Starting ChatApplicationTests on MBP-de-Ana.lan with PID 22522 (started by anasousa in /Users/anasousa/Dev/chat-application)
+652  [main] DEBUG c.p.c.ChatApplicationTests - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+653  [main] INFO  c.p.c.ChatApplicationTests - No active profile set, falling back to default profiles: default
+7219 [main] INFO  c.p.c.ChatApplicationTests - Started ChatApplicationTests in 6.772 seconds (JVM running for 7.602)
+458  [main] INFO  c.p.chatapplication.ChatApplication - Starting ChatApplication on MBP-de-Ana.lan with PID 22581 (/Users/anasousa/Dev/chat-application/target/classes started by anasousa in /Users/anasousa/Dev/chat-application)
+458  [main] DEBUG c.p.chatapplication.ChatApplication - Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+458  [main] INFO  c.p.chatapplication.ChatApplication - No active profile set, falling back to default profiles: default
+4990 [main] INFO  c.p.chatapplication.ChatApplication - Started ChatApplication in 4.775 seconds (JVM running for 5.104)
