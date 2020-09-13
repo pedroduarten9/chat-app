@@ -4,7 +4,6 @@ import com.pneto.chatapplication.domain.Chat;
 import com.pneto.chatapplication.domain.Message;
 import com.pneto.chatapplication.dto.ChatDto;
 import com.pneto.chatapplication.dto.MessageDto;
-import com.pneto.chatapplication.error.exception.NotFoundException;
 import com.pneto.chatapplication.repository.ChatRepository;
 import com.pneto.chatapplication.repository.MessageRepository;
 import org.junit.Test;

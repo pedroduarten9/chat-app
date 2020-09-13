@@ -12,8 +12,7 @@ public enum ErrorCode {
 
     NOT_FOUND_CHAT(HttpStatus.NOT_FOUND, 1, "Chat not found"),
 
-    GENERIC_INTERNAL_SERVER_ERROR(HttpStatus.INTERNAL_SERVER_ERROR, 1, "generic internal server error")
-    ;
+    GENERIC_INTERNAL_SERVER_ERROR(HttpStatus.INTERNAL_SERVER_ERROR, 1, "generic internal server error");
 
     private HttpStatus httpStatus;
     private int internalCode;

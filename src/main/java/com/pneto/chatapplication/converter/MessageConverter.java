@@ -15,7 +15,7 @@ public class MessageConverter {
         return message;
     }
 
-    public MessageDto toDto(Message message){
+    public MessageDto toDto(Message message) {
         MessageDto messageDto = new MessageDto();
         messageDto.setSender(message.getFrom());
         messageDto.setDestination(message.getTo());

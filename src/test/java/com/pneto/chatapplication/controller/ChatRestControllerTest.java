@@ -1,7 +1,6 @@
 package com.pneto.chatapplication.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.pneto.chatapplication.controller.ChatRestController;
 import com.pneto.chatapplication.dto.ChatDto;
 import com.pneto.chatapplication.error.ErrorCode;
 import com.pneto.chatapplication.error.exception.NotFoundException;
@@ -14,8 +13,6 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.http.MediaType;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
 
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.when;

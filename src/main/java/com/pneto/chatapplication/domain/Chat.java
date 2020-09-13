@@ -31,10 +31,6 @@ public class Chat extends BaseEntity {
         messages = new ArrayList<>();
     }
 
-    public void addMessage(Message message) {
-        messages.add(message);
-    }
-
     public static String buildParticipants(String from, String to) {
         return Stream.of(from, to)
                 .sorted()
@@ -46,5 +42,9 @@ public class Chat extends BaseEntity {
                 .map(String::trim)
                 .sorted()
                 .collect(Collectors.joining(Chat.DELIMITER));
+    }
+
+    public void addMessage(Message message) {
+        messages.add(message);
     }
 }
