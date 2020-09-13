@@ -1,6 +1,6 @@
-#Chat application
+# Chat application
 
-##Features
+## Features
 
 This project uses 
 
@@ -10,32 +10,32 @@ This project uses
 * spring boot info `/actuator/info` that displays app info including version.
 * Small js client to test web socket integration, currently using only two participants. (was not made to be evaluated)
 
-##Frontend
+## Frontend
 
 The frontend serves only for testing purposes and has no validations.
 The user must write the name of the participants and the message.
 Subscribes both sender and destination queues.
 
-##Database
+## Database
 
 This application uses an in-memory database (h2) that can be accessed from the `/h2-console` with the url and credentials in application.properties.
 
-##Tests
+## Tests
 
 The tests use a mockist approach.  
 I was not exhaustive in testing but tested what was worth testing.  
 Test were not only made to ChatController with webSockets.
 
-##Run and deploy
+## Run and deploy
 
-###To run application
+### To run application
 `docker-compose up -d`
 
-###If you don't want to run the application as a container
+### If you don't want to run the application as a container
 `./mvnw clean install`  
 `./mvnw spring-boot:run`
 
-##Improvements
+## Improvements
 
 * Add real Frontend.
 * Add login support and users micro service instead of a string representing the uswer.
